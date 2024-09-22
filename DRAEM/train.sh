@@ -1,0 +1,13 @@
+python train_DRAEM.py \
+--gpu_id 0 \
+--obj_id -1 \
+--lr 0.0001 \
+--bs 16 \
+--epochs 700 \
+--data_path ../datasets/mvtec/ \
+--anomaly_source_path ../datasets/dtd/images/ \
+--anomaly_source_path_DM ../datasets/mvtec_anomaly/ \
+--checkpoint_path ../checkpoints_dream_test/ \
+--log_path ../logs_dream_test/ \
+--p_cutoff 0.1 \
+--warmup 0 
