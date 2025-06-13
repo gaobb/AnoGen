@@ -120,4 +120,8 @@ If you find this code useful in your research, please consider citing us:
   pages={--},
   year={2024}
 }
-``` 
+```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=gaobb/AnoGen&type=Date)](https://www.star-history.com/#gaobb/AnoGen&Date)
